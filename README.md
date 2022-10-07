@@ -4,19 +4,18 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <h2 align="center">I am a Senior Full Stack Developer.</h2>
-<p align="center">
-  <a href="https://github.com/H-Builder"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;7%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-  <a href="https://github.com/muiux"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain%20developer;Web%20and%20mobile%20master;7%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
-</p>
-<h6 align="center">Skype: <a href="https://join.skype.com/invite/ynWwV3X0f4bU" target="__blank">live:.cid.845197c69ef3598f</a> <<====>> Discord: HighBuilder#6882</h6>
+<h4 align="center">Skype: <a href="https://join.skype.com/invite/qsCBNGSKizFV" target="__blank">James Smith (live:.cid.1deb69766776cd4e)</a> Telegram: +15599429073l</h4>
 
 <p align="center">
   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="640" height="400" />
 </p>
+<p align="center">
+  <a href="https://github.com/H-Builder"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20mobile%20developer;7%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+</p>
 
-<h4 align="center">I am a Senior Full Stack Web Developer. I own a strong hold on various skills such as HTML, CSS, JavaScript, Bootstrap, JQuery, PHP, Laravel, Python, Django, Vue, Nuxt, React JS, React-Native, Next, Node, Express, TypeScript, MySQl, MongoDB, etc. I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.</h4>
+<h4 align="center">I am a Senior Full Stack Developer. My specific skills include React.js, Next.js, Vue.js, Nuxt.js, PHP, Laravel, Python, Django, Node.js, ExpressJS, React Native, Flutter, Java, MySQl, MongoDB, PostgreSQL, etc. I've done multiple projects on website and web app development. Also joinning in the field of Blockchain, Machine Learning and AI. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.</h4>
 
-#### ![](https://img.shields.io/badge/Django-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/Vue-red) ![](https://img.shields.io/badge/Nuxt-green) ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Next-green) ![](https://img.shields.io/badge/Node-red) ![](https://img.shields.io/badge/Express-red) ![](https://img.shields.io/badge/MySQL-blue) ![](https://img.shields.io/badge/Tailwind-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/Web3.js-green) ![](https://img.shields.io/badge/Ethers.js-green) ![](https://img.shields.io/badge/Blockchain-red) ![](https://img.shields.io/badge/Ethereum-green) ![](https://img.shields.io/badge/Solidity-blue) ![](https://img.shields.io/badge/Angular-blue) ![](https://img.shields.io/badge/Web3-red) ![](https://img.shields.io/badge/Smart%Contract-blue) ![](https://img.shields.io/badge/PostgreSQL-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/GoDaddy-blue) ![](https://img.shields.io/badge/PHP-green) ![](https://img.shields.io/badge/Laravel-blue) ![](https://img.shields.io/badge/CSS-red) ![](https://img.shields.io/badge/Git-red) ![](https://img.shields.io/badge/bootstrap-blue) ![](https://img.shields.io/badge/SmartContract-green)
+#### ![](https://img.shields.io/badge/Django-blue) ![](https://img.shields.io/badge/Python-blue) ![](https://img.shields.io/badge/Vue-red) ![](https://img.shields.io/badge/Nuxt-green) ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Next-green) ![](https://img.shields.io/badge/Node-red) ![](https://img.shields.io/badge/Express-red) ![](https://img.shields.io/badge/PHP-green) ![](https://img.shields.io/badge/Laravel-blue) ![](https://img.shields.io/badge/Flutter-red) ![](https://img.shields.io/badge/Java-red) ![](https://img.shields.io/badge/ReactNative-red) ![](https://img.shields.io/badge/MySQL-blue) ![](https://img.shields.io/badge/MongoDB-blue) ![](https://img.shields.io/badge/PostgreSQL-blue) ![](https://img.shields.io/badge/Tailwind-blue) ![](https://img.shields.io/badge/AWS-blue) ![](https://img.shields.io/badge/Web3.js-green) ![](https://img.shields.io/badge/Ethers.js-green) ![](https://img.shields.io/badge/Blockchain-red) ![](https://img.shields.io/badge/Ethereum-green) ![](https://img.shields.io/badge/Solidity-blue) ![](https://img.shields.io/badge/Web3-red) ![](https://img.shields.io/badge/SmartContract-green) ![](https://img.shields.io/badge/GoDaddy-blue) ![](https://img.shields.io/badge/Git-red)
 
 ##
 
