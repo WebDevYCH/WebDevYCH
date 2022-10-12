@@ -4,7 +4,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <h2 align="center">I am a Senior Full Stack Developer.</h2>
-<h4 align="center">Skype: <a href="https://join.skype.com/invite/qsCBNGSKizFV" target="__blank">James Smith (live:.cid.1deb69766776cd4e)</a> Telegram: +15599429073l</h4>
 
 <p align="center">
   <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="640" height="400" />
